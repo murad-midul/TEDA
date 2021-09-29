@@ -1,0 +1,131 @@
+ a{
+	text-decoration:none;
+}
+.full-wraper{
+	width: 100x;
+	clear: both;
+}
+.wraperP{
+	width: 100px; 
+	margin: 0 auto;
+}
+.logo img{
+	width:140px ;
+	padding: 10px 0;
+	float: left;
+}
+.menu{
+	float:left ;
+	width: 960px;
+	text-align: right;
+	margin-top: 30px;
+}
+.menu a{
+	color:#000 ;
+	padding:10px;
+	font size:30px;
+}
+
+/*===========banner====*/
+.banner-img{
+	background-image:  url(pic1.jpg);
+	background-position: center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding: 200px 0;
+} 
+.banner-text{
+	text-align: center;
+}
+.banner-text h1{
+	color: red;
+}
+.banner-text p{
+	color:red;
+}
+
+
+
+}
+
+/*==========SERVICE======*/
+.service h1{
+	text-align: center;
+	color: #4444;
+	padding: 50px 0;
+}
+.service-item{
+	width: 350px;
+	float: left;
+	text-align: center;
+	margin: 20px;
+	padding: 20px 0;
+	border: 1px solid #777;
+}
+.service-item p{
+	display: inline-block; a{
+	text-decoration:none;
+}
+.full-wraper{
+	width: 100x;
+	clear: both;
+}
+.wraperP{
+	width: 100px; 
+	margin: 0 auto;
+}
+.logo img{
+	width:140px ;
+	padding: 10px 0;
+	float: left;
+}
+.menu{
+	float:left ;
+	width: 960px;
+	text-align: right;
+	margin-top: 30px;
+}
+.menu a{
+	color:#000 ;
+	padding:10px;
+	font size:30px;
+}
+
+/*===========banner====*/
+.banner-img{
+	background-image:  url(img.jpg);
+	background-position: center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding: 200px 0;
+} 
+.banner-text{
+	text-align: center;
+}
+.banner-text h1{
+	color: red;
+}
+.banner-text p{
+	color:red;
+}
+
+
+
+}
+
+/*==========SERVICE======*/
+.service h1{
+	text-align: center;
+	color: #4444;
+	padding: 50px 0;
+}
+.service-item{
+	width: 350px;
+	float: left;
+	text-align: center;
+	margin: 20px;
+	padding: 20px 0;
+	border: 1px solid #777;
+}
+.service-item p{
+	display: inline-block;
